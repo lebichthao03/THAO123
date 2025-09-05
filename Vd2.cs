@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class BadSchoolProgram
 {
-    static void Main(string[] args) //thao
+    static void Main(string[] args) //acbchdjksfn
     {
         List<string> students = new List<string>();
         List<string> teachers = new List<string>();
