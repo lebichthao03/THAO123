@@ -1,7 +1,11 @@
 using System;
 using System.Collections.Generic;
 
+<<<<<<< HEAD
 public class BadSchoolProgram
+=======
+public class BadSchoolProgram//loiithtoi
+>>>>>>> 9cb6a2e ( update di)
 {
     static void Main(string[] args) //acbchdjksfn
     {
@@ -10,7 +14,7 @@ public class BadSchoolProgram
         List<string> courses = new List<string>();
         List<string> enrollments = new List<string>();
         List<string> grades = new List<string>();
-
+//homnaytroidepqua
         int menu = 0;
         while (menu != 99)
         {
